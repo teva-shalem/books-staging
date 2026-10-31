@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3b8cd1c6d4e45bdbe445adcd26cc43a5"
+    "revision": "b8cd09421077bb9b342a33ebb6fc7cc3"
   },
   {
-    "url": "assets/css/0.styles.be428de2.css",
-    "revision": "ea1dfa94d8a3c8bf795d76a62dc262a1"
+    "url": "assets/css/0.styles.0b356389.css",
+    "revision": "7fcf92298c3b746545a16513b2499dc3"
   },
   {
     "url": "assets/fonts/KaTeX_AMS-Regular.2dbe16b4.ttf",
@@ -230,32 +230,32 @@ self.__precacheManifest = [
     "revision": "b91783bbb41395b47c9af2b74c43e1a7"
   },
   {
-    "url": "assets/js/10.0894980d.js",
-    "revision": "167003efded446df9119134791f5d8cc"
+    "url": "assets/js/10.85b8485e.js",
+    "revision": "569d5d48246319a916d0047d570c8cd1"
   },
   {
-    "url": "assets/js/11.1fd59c0b.js",
-    "revision": "2cbbbcd2f3d2f3ae48b265164c93d9c4"
+    "url": "assets/js/11.642a3b7d.js",
+    "revision": "a6c0786d6cef56fb6b77e75ee3568093"
   },
   {
-    "url": "assets/js/12.35ffe822.js",
-    "revision": "3ee4a48175a42d75abe61f5effdf7b21"
+    "url": "assets/js/12.c7b78bfd.js",
+    "revision": "b43cb44003be65601862f245f73f0f31"
   },
   {
-    "url": "assets/js/13.95e4dee9.js",
-    "revision": "6706b0c3b8f3b5404911c15f8725c63c"
+    "url": "assets/js/13.0fbd3717.js",
+    "revision": "9af91ea171901ee16b0c6dd99c42fea4"
   },
   {
-    "url": "assets/js/14.744c6eee.js",
-    "revision": "660664fb5cd6e06370b59ed73c54beda"
+    "url": "assets/js/14.39376f5b.js",
+    "revision": "443dd37d6ca9b658c7834ec8d7ee3082"
   },
   {
-    "url": "assets/js/15.cb12bf41.js",
-    "revision": "086930a521489f763254f89e867eb83c"
+    "url": "assets/js/15.75271fcc.js",
+    "revision": "b3b90f330c6069772ddf506fc90d3684"
   },
   {
-    "url": "assets/js/16.ee6b11d5.js",
-    "revision": "b256037f6e1e41c7c7877cb42fb9dae5"
+    "url": "assets/js/16.8eb8474e.js",
+    "revision": "dec3298616a93c9998194efdf050d71b"
   },
   {
     "url": "assets/js/17.093772cb.js",
@@ -270,8 +270,8 @@ self.__precacheManifest = [
     "revision": "73b14a704ea4d968727490e6a74c3164"
   },
   {
-    "url": "assets/js/2.93f14ff6.js",
-    "revision": "17c65e2637800d42a41c37a2c1717d24"
+    "url": "assets/js/2.65ff1930.js",
+    "revision": "dc0b3aa5700574a5c7f5167f7ea65403"
   },
   {
     "url": "assets/js/20.7d85ea52.js",
@@ -286,64 +286,68 @@ self.__precacheManifest = [
     "revision": "690ed90b9f135a6470abee0446f4040c"
   },
   {
-    "url": "assets/js/23.eaf2df57.js",
-    "revision": "5800f5d17933fc85c2312f9dd8a191ce"
+    "url": "assets/js/23.9fa7245f.js",
+    "revision": "98d56e90af913a620202432e4ca4bf51"
   },
   {
-    "url": "assets/js/24.ca5f955b.js",
-    "revision": "b406656ad20d42abd8c0e9394f74d33b"
+    "url": "assets/js/24.c362b5cc.js",
+    "revision": "aad2f9313c5b6c0b0c02612a3cb8f584"
   },
   {
-    "url": "assets/js/25.292f2abf.js",
-    "revision": "5532975ec373466301459f60f2f9f82a"
+    "url": "assets/js/25.39831306.js",
+    "revision": "08436772129f85ad09315f8fbea609bb"
   },
   {
-    "url": "assets/js/26.97b9718c.js",
-    "revision": "370d358062f20b3179501fd448463ecf"
+    "url": "assets/js/26.9be7bd69.js",
+    "revision": "20cd2ad8ff6ec3013ebc266cb425815c"
   },
   {
-    "url": "assets/js/27.31ee3ffd.js",
-    "revision": "18d454777ac90f8e24c6ca1d58d3aaae"
+    "url": "assets/js/27.9e9f4ca1.js",
+    "revision": "a1ab6f20996ba84dedae6b4123164c1b"
   },
   {
-    "url": "assets/js/28.b617edfa.js",
-    "revision": "7cd41841c799b38ec57d786e6a2bab54"
+    "url": "assets/js/28.3ab5523a.js",
+    "revision": "d53412f75aff651a3df1ce133d408bd1"
   },
   {
-    "url": "assets/js/29.929d434f.js",
-    "revision": "97d29d4d09c2d9a22df315a0b4d3a098"
+    "url": "assets/js/29.26dc5a25.js",
+    "revision": "46ecaa8f91af91ed2849d9f51c9288cb"
   },
   {
-    "url": "assets/js/3.1141fb20.js",
+    "url": "assets/js/3.3248c68d.js",
     "revision": "da2de3a7f52cee6cd883d77275505c8d"
   },
   {
-    "url": "assets/js/30.861959be.js",
-    "revision": "e44fb56ac886227bcbbbb1ccdabc80de"
+    "url": "assets/js/30.d1d6cec7.js",
+    "revision": "bb40bb4463af1c96984349ff8b8b28b4"
   },
   {
-    "url": "assets/js/31.2ad605ed.js",
-    "revision": "41d10b2a086536e0b83cdf1ab13b0de8"
+    "url": "assets/js/31.fecbe1ab.js",
+    "revision": "355b70b579c8b8fdfab742d64e6bcb4c"
   },
   {
-    "url": "assets/js/32.5d6ac38c.js",
-    "revision": "576ca4d224cc8535b29d0f31ee9320d1"
+    "url": "assets/js/32.7de47a4f.js",
+    "revision": "182286808eb745bf8becad721d9b426a"
   },
   {
-    "url": "assets/js/4.b6871b6c.js",
-    "revision": "2b613e89d738cde73d7563c4d4774bd2"
+    "url": "assets/js/33.b6255333.js",
+    "revision": "7bbdb36b5b741d8c8f163516b5c6f7a6"
   },
   {
-    "url": "assets/js/5.5fa3ce58.js",
-    "revision": "4a6738939f5198e20828c728b888c7d9"
+    "url": "assets/js/4.e9129178.js",
+    "revision": "1c9752cb93e4ca8094a5634ad54702da"
   },
   {
-    "url": "assets/js/6.03931ecc.js",
-    "revision": "d66e3c809630603df5a8b83600f92724"
+    "url": "assets/js/5.14f3595c.js",
+    "revision": "a8bcd84b26735a466fa8985084edbf72"
   },
   {
-    "url": "assets/js/7.db8a7cd5.js",
-    "revision": "c6d744890890ae97dc8fe68c5efaa2a1"
+    "url": "assets/js/6.a9384a15.js",
+    "revision": "4b380dfcbb8e4113ff75afe1d863f685"
+  },
+  {
+    "url": "assets/js/7.f2bc4521.js",
+    "revision": "09a3eaae98ef7e47decf5ab2b7be0243"
   },
   {
     "url": "assets/js/8.746da18a.js",
@@ -354,160 +358,100 @@ self.__precacheManifest = [
     "revision": "fc2b2c5eb7119a39db9722f1654555de"
   },
   {
-    "url": "assets/js/app.3d92a800.js",
-    "revision": "d386d1e9ea19ba4250cbc3a0dd354461"
+    "url": "assets/js/app.7990772c.js",
+    "revision": "a3bd0d0eea96aee478fcbd9072f321da"
   },
   {
     "url": "composition-book/index.html",
-    "revision": "49ac5a07115df8c12a2cc32f09459218"
+    "revision": "1939aabbb6ed67855156b196f9f92eec"
   },
   {
     "url": "derech-hapeima/index.html",
-    "revision": "1f31b17fdf175f174f52796b3484e5bd"
-  },
-  {
-    "url": "images/applicative-philosophy.jpg",
-    "revision": "2db7904fb9f15f1a5645f06fada638c5"
-  },
-  {
-    "url": "images/axis-z.jpg",
-    "revision": "c47c2a6c9b0f6a43158a3f30dc40fa30"
-  },
-  {
-    "url": "images/caressing.jpg",
-    "revision": "c541e98c21a9498d58ef56159f8220b3"
-  },
-  {
-    "url": "images/classification.jpg",
-    "revision": "3ebf9bbc67cbf96df99468e175b716dc"
-  },
-  {
-    "url": "images/constant-m.jpg",
-    "revision": "3c35e26284643ce36ae1099c14d50fde"
-  },
-  {
-    "url": "images/constant-n.jpg",
-    "revision": "e05525552d556cf974cb905fc2fd35b0"
-  },
-  {
-    "url": "images/cosmology-model.jpg",
-    "revision": "a8747aafef0d86182ff38e1beca4efdf"
-  },
-  {
-    "url": "images/cover-derech-hapeima.jpg",
-    "revision": "dd6abdc164369c0546079dbaa1178653"
-  },
-  {
-    "url": "images/cover-sipur-hayahhid.jpg",
-    "revision": "40107ac0add9b298299d6074c0a09728"
-  },
-  {
-    "url": "images/cycle-mentoring.jpg",
-    "revision": "e8fdc072ed994e8f855901bdb3fe11ab"
-  },
-  {
-    "url": "images/darwish.jpg",
-    "revision": "20025b59c22750083cbae02ea76b1a25"
+    "revision": "a568e65ee29703acfaffa5a53d63184a"
   },
   {
     "url": "images/david-symbol-transparent.png",
     "revision": "0d70757a5f1ffead6bfe3b4e5ac412f5"
   },
   {
-    "url": "images/david-symbol.jpg",
+    "url": "images/derech-hapeima/caressing.jpg",
+    "revision": "c541e98c21a9498d58ef56159f8220b3"
+  },
+  {
+    "url": "images/derech-hapeima/classification.jpg",
+    "revision": "3ebf9bbc67cbf96df99468e175b716dc"
+  },
+  {
+    "url": "images/derech-hapeima/cover.jpg",
+    "revision": "dd6abdc164369c0546079dbaa1178653"
+  },
+  {
+    "url": "images/derech-hapeima/darwish.jpg",
+    "revision": "20025b59c22750083cbae02ea76b1a25"
+  },
+  {
+    "url": "images/derech-hapeima/david-symbol.jpg",
     "revision": "affe75354121d1e561da150390a5ec9a"
   },
   {
-    "url": "images/david.jpg",
+    "url": "images/derech-hapeima/david.jpg",
     "revision": "759e4b032232de81f4572a4fe18867f7"
   },
   {
-    "url": "images/disentanglement.jpg",
+    "url": "images/derech-hapeima/disentanglement.jpg",
     "revision": "756e297babe121f50633d3154b9844bb"
   },
   {
-    "url": "images/drainage-divide.jpg",
+    "url": "images/derech-hapeima/drainage-divide.jpg",
     "revision": "4b4b8a98400fdc298967b367de8b2529"
   },
   {
-    "url": "images/equation-balance.jpg",
-    "revision": "2e69c8cf09f240a416db1e712fc97f95"
-  },
-  {
-    "url": "images/equation-human.jpg",
-    "revision": "8d66f6b80e1550e2f82a777a73fa0309"
-  },
-  {
-    "url": "images/equation-i.jpg",
-    "revision": "d9613fcc5033cf035b4c1ac55072c11b"
-  },
-  {
-    "url": "images/equation-maaseh-merkavah.jpg",
-    "revision": "d23aa892f8e6d66c8febc9ed2dc794b3"
-  },
-  {
-    "url": "images/equation-one.jpg",
-    "revision": "07a3096dce422dc0d6db28f4207f07fb"
-  },
-  {
-    "url": "images/equation-soul.jpg",
-    "revision": "1bc0db0f2097f786048807cdce1f4b06"
-  },
-  {
-    "url": "images/equation-terra-dynamics.jpg",
-    "revision": "3cb5d29bb0d5418144b97cd5eda77912"
-  },
-  {
-    "url": "images/equation-two.jpg",
-    "revision": "4ec331ee1466bdb7f9fc002da0a3dd2c"
-  },
-  {
-    "url": "images/equation-way.jpg",
-    "revision": "189b11142c096d2dc05c7d5e959d55dd"
-  },
-  {
-    "url": "images/equation-zero.jpg",
-    "revision": "e01c2d80380672dfc64f3d03b04f8022"
-  },
-  {
-    "url": "images/filipe.jpg",
+    "url": "images/derech-hapeima/filipe.jpg",
     "revision": "a0c74a1aeb3b2c874bd54c6cb78b12ed"
   },
   {
-    "url": "images/forcefulness.jpg",
+    "url": "images/derech-hapeima/forcefulness.jpg",
     "revision": "3f202f49d02bcd031f454ddc8f2964e8"
   },
   {
-    "url": "images/hachildhood.jpg",
-    "revision": "93a3bb92a93fcf1ac35eaf5ffd02772c"
+    "url": "images/derech-hapeima/kissing.jpg",
+    "revision": "9bd8030c6c78c6a292a9f73c1e561610"
   },
   {
-    "url": "images/hacore.jpg",
-    "revision": "6154561b6e038f49e36a823cfc33ce25"
+    "url": "images/derech-hapeima/merkavah-arrows.jpg",
+    "revision": "2f4905059edc68854f7742498e7dbfd6"
   },
   {
-    "url": "images/hacreation.jpg",
-    "revision": "c70e82718528364c4eeec636abb954d3"
+    "url": "images/derech-hapeima/merkavah-body.jpg",
+    "revision": "8841797a891d519f321018b9c5442b46"
   },
   {
-    "url": "images/hafamily.jpg",
-    "revision": "3f0952d8335264548adc1d00e71702f0"
+    "url": "images/derech-hapeima/merkavah-personal.jpg",
+    "revision": "c84a18c5d1f50aad457dae98f09ab848"
   },
   {
-    "url": "images/hahome.jpg",
-    "revision": "61609de57a0f30a41eebc393aff33536"
+    "url": "images/derech-hapeima/mountain.jpg",
+    "revision": "f62410b19320cfd43f6335a8b8b07a29"
   },
   {
-    "url": "images/hame.jpg",
-    "revision": "1e8fc413203580836b39a3a898399825"
+    "url": "images/derech-hapeima/movement.jpg",
+    "revision": "b32466f352524ebab4aadca92edf4b90"
   },
   {
-    "url": "images/hatrauma.jpg",
-    "revision": "19a8e93a3b9adb1288d6ebac7e82c5e0"
+    "url": "images/derech-hapeima/nostalgia.jpg",
+    "revision": "fa8f3a9f0a5a378edc93c1045b61816e"
   },
   {
-    "url": "images/icon-down-arrow.png",
-    "revision": "077613251f4f68c2c8e07f7bda643a86"
+    "url": "images/derech-hapeima/paradoxality.jpg",
+    "revision": "3173060aee833c95a9cc11d7d0800883"
+  },
+  {
+    "url": "images/derech-hapeima/sanity.jpg",
+    "revision": "75c44bc76eba1408f7e1997e5e049197"
+  },
+  {
+    "url": "images/derech-hapeima/west.jpg",
+    "revision": "4f71e726f26bbfb83745fe414b513822"
   },
   {
     "url": "images/icons/icon-128x128.png",
@@ -542,272 +486,352 @@ self.__precacheManifest = [
     "revision": "6e82055b409889b3db66cbd278dea64a"
   },
   {
-    "url": "images/kingdom-spheres.jpg",
-    "revision": "d6959b0d955ccb5abe98909eccf19f9d"
+    "url": "images/intro/hapeima-model.png",
+    "revision": "3eb39cf15e0f036f3ac7849ae5c20a38"
   },
   {
-    "url": "images/kissing.jpg",
-    "revision": "9bd8030c6c78c6a292a9f73c1e561610"
+    "url": "images/intro/merkavah-qualities-mapping.png",
+    "revision": "8b0f3e99d3176b49f4bb4ef8d42681be"
   },
   {
-    "url": "images/layered-model.jpg",
-    "revision": "594d5c02f8708489ba7d814715a83102"
+    "url": "images/intro/sacred-geometry.png",
+    "revision": "bfb5b9b74b0506e617b25e2324f9eb79"
   },
   {
-    "url": "images/legend-composition.jpg",
-    "revision": "a4bfe1b9a960a620e9d401bacff3f7bd"
+    "url": "images/intro/soul-healing-model.png",
+    "revision": "af384ea377fea8611985041783b7c4d6"
   },
   {
-    "url": "images/map-body-of-soul.jpg",
-    "revision": "2829744c4b74b0281d75e55ab039935e"
+    "url": "images/mishvaot-hapeima/axis-z.jpg",
+    "revision": "c47c2a6c9b0f6a43158a3f30dc40fa30"
   },
   {
-    "url": "images/merkavah-arrows.jpg",
-    "revision": "2f4905059edc68854f7742498e7dbfd6"
+    "url": "images/mishvaot-hapeima/constant-m.jpg",
+    "revision": "3c35e26284643ce36ae1099c14d50fde"
   },
   {
-    "url": "images/merkavah-axes.jpg",
+    "url": "images/mishvaot-hapeima/constant-n.jpg",
+    "revision": "e05525552d556cf974cb905fc2fd35b0"
+  },
+  {
+    "url": "images/mishvaot-hapeima/equation-balance.jpg",
+    "revision": "2e69c8cf09f240a416db1e712fc97f95"
+  },
+  {
+    "url": "images/mishvaot-hapeima/equation-human.jpg",
+    "revision": "8d66f6b80e1550e2f82a777a73fa0309"
+  },
+  {
+    "url": "images/mishvaot-hapeima/equation-i.jpg",
+    "revision": "d9613fcc5033cf035b4c1ac55072c11b"
+  },
+  {
+    "url": "images/mishvaot-hapeima/equation-maaseh-merkavah.jpg",
+    "revision": "d23aa892f8e6d66c8febc9ed2dc794b3"
+  },
+  {
+    "url": "images/mishvaot-hapeima/equation-one.jpg",
+    "revision": "07a3096dce422dc0d6db28f4207f07fb"
+  },
+  {
+    "url": "images/mishvaot-hapeima/equation-soul.jpg",
+    "revision": "1bc0db0f2097f786048807cdce1f4b06"
+  },
+  {
+    "url": "images/mishvaot-hapeima/equation-two.jpg",
+    "revision": "4ec331ee1466bdb7f9fc002da0a3dd2c"
+  },
+  {
+    "url": "images/mishvaot-hapeima/equation-way.jpg",
+    "revision": "189b11142c096d2dc05c7d5e959d55dd"
+  },
+  {
+    "url": "images/mishvaot-hapeima/equation-zero.jpg",
+    "revision": "e01c2d80380672dfc64f3d03b04f8022"
+  },
+  {
+    "url": "images/mishvaot-hapeima/merkavah-axes.jpg",
     "revision": "133bd90f618b452ffe6f34cfbc7dac96"
   },
   {
-    "url": "images/merkavah-body.jpg",
-    "revision": "8841797a891d519f321018b9c5442b46"
-  },
-  {
-    "url": "images/merkavah-letter-values.jpg",
+    "url": "images/mishvaot-hapeima/merkavah-letter-values.jpg",
     "revision": "82bdac2a0388fa6d1561ce0902167625"
   },
   {
-    "url": "images/merkavah-logo.jpg",
+    "url": "images/mishvaot-hapeima/merkavah-logo.jpg",
     "revision": "0e6fc47637f1772d6b9adbffa995917d"
   },
   {
-    "url": "images/merkavah-mapping.jpg",
+    "url": "images/mishvaot-hapeima/merkavah-mapping.jpg",
     "revision": "ef032425543696d3d03336370951185f"
   },
   {
-    "url": "images/merkavah-personal.jpg",
-    "revision": "c84a18c5d1f50aad457dae98f09ab848"
+    "url": "images/mishvaot-hapeima/system-axes-values.jpg",
+    "revision": "ec599df73dab7e16674b715489f3d35c"
   },
   {
-    "url": "images/mountain.jpg",
-    "revision": "f62410b19320cfd43f6335a8b8b07a29"
+    "url": "images/mishvaot-hapeima/system-mapping.jpg",
+    "revision": "a6edcd2d6294fc2454d11cb3e8005629"
   },
   {
-    "url": "images/movement.jpg",
-    "revision": "b32466f352524ebab4aadca92edf4b90"
+    "url": "images/mishvaot-hapeima/variable-m.jpg",
+    "revision": "74b03d0c8ea4e6de0c2418bcfe8d0343"
   },
   {
-    "url": "images/ndd/10.svg",
+    "url": "images/rosetta-stone/icon-down-arrow.png",
+    "revision": "077613251f4f68c2c8e07f7bda643a86"
+  },
+  {
+    "url": "images/rosetta-stone/legend-composition.jpg",
+    "revision": "a4bfe1b9a960a620e9d401bacff3f7bd"
+  },
+  {
+    "url": "images/rosetta-stone/ndd/10.svg",
     "revision": "e8bb83392b34a6f4d668d2824924ca77"
   },
   {
-    "url": "images/ndd/5.svg",
+    "url": "images/rosetta-stone/ndd/5.svg",
     "revision": "fe6d12f6cf09e16549510f1a79477a84"
   },
   {
-    "url": "images/ndd/6.svg",
+    "url": "images/rosetta-stone/ndd/6.svg",
     "revision": "f6cae1eb90aa25d28e227ba6b295c2f1"
   },
   {
-    "url": "images/ndd/7.svg",
+    "url": "images/rosetta-stone/ndd/7.svg",
     "revision": "fe95414ae6244766dce1b71a7f06ed1d"
   },
   {
-    "url": "images/ndd/8.svg",
+    "url": "images/rosetta-stone/ndd/8.svg",
     "revision": "61626bd1a511daab4333f742a8f4691c"
   },
   {
-    "url": "images/ndd/9.svg",
+    "url": "images/rosetta-stone/ndd/9.svg",
     "revision": "dcfed7e0bbb29357c33003a41cfb002f"
   },
   {
-    "url": "images/ndd/Air.svg",
+    "url": "images/rosetta-stone/ndd/Air.svg",
     "revision": "1c555cca3f5a21e81318a60058783560"
   },
   {
-    "url": "images/ndd/Dot.svg",
+    "url": "images/rosetta-stone/ndd/Dot.svg",
     "revision": "b3f1c6bef11a504641ca2fb27157bd54"
   },
   {
-    "url": "images/ndd/Eternity.svg",
+    "url": "images/rosetta-stone/ndd/Eternity.svg",
     "revision": "9123157d8fb355371d62ca5908c513fd"
   },
   {
-    "url": "images/ndd/Fire.svg",
+    "url": "images/rosetta-stone/ndd/Fire.svg",
     "revision": "4bbe8b2a250413b2f13523ffeb0ba003"
   },
   {
-    "url": "images/ndd/Insight.svg",
+    "url": "images/rosetta-stone/ndd/Insight.svg",
     "revision": "f38a31c85dec690d7fff02805535913a"
   },
   {
-    "url": "images/ndd/Love.svg",
+    "url": "images/rosetta-stone/ndd/Love.svg",
     "revision": "7b9e7afbce7299ed7bb7a82049af0a8c"
   },
   {
-    "url": "images/ndd/Pulse.svg",
+    "url": "images/rosetta-stone/ndd/Pulse.svg",
     "revision": "09878a9e4e51fc4aac0851cd224ad19d"
   },
   {
-    "url": "images/ndd/Water.svg",
+    "url": "images/rosetta-stone/ndd/Water.svg",
     "revision": "12aea4a2423dedf8adf25b6f9ecc69ff"
   },
   {
-    "url": "images/ndd/ג.svg",
+    "url": "images/rosetta-stone/ndd/ג.svg",
     "revision": "7e13a40d4b3928707dc613e7d3e784e3"
   },
   {
-    "url": "images/ndd/ד.svg",
+    "url": "images/rosetta-stone/ndd/ד.svg",
     "revision": "6840ef85ba3adfaf20181907b9cd2353"
   },
   {
-    "url": "images/ndd/ה.svg",
+    "url": "images/rosetta-stone/ndd/ה.svg",
     "revision": "37cf36c7bd11da7020da889fb2256b18"
   },
   {
-    "url": "images/ndd/ו.svg",
+    "url": "images/rosetta-stone/ndd/ו.svg",
     "revision": "aaa9fb467dd9ac3ce90368f759af5bbf"
   },
   {
-    "url": "images/ndd/ז.svg",
+    "url": "images/rosetta-stone/ndd/ז.svg",
     "revision": "ca10e9d7b07a8b43cb76a6038d58466b"
   },
   {
-    "url": "images/ndd/ח.svg",
+    "url": "images/rosetta-stone/ndd/ח.svg",
     "revision": "e064eae1e6ff8cc49c60101fe722c67a"
   },
   {
-    "url": "images/ndd/ט.svg",
+    "url": "images/rosetta-stone/ndd/ט.svg",
     "revision": "c112fb72299d92128b533305e1ab9cef"
   },
   {
-    "url": "images/ndd/י.svg",
+    "url": "images/rosetta-stone/ndd/י.svg",
     "revision": "0c645641c98e7df57fbe3aaf512468f3"
   },
   {
-    "url": "images/ndd/כ.svg",
+    "url": "images/rosetta-stone/ndd/כ.svg",
     "revision": "4d962a31ac4e22952c8bf6b2722458c0"
   },
   {
-    "url": "images/ndd/ל.svg",
+    "url": "images/rosetta-stone/ndd/ל.svg",
     "revision": "64011dea5640d3cc40f838cffd8058ef"
   },
   {
-    "url": "images/ndd/נ.svg",
+    "url": "images/rosetta-stone/ndd/נ.svg",
     "revision": "6b4be5517b4953edc2fb1ab8a0ea1c8f"
   },
   {
-    "url": "images/ndd/ס.svg",
+    "url": "images/rosetta-stone/ndd/ס.svg",
     "revision": "83ac197d286c867f406db95adb6aac7c"
   },
   {
-    "url": "images/ndd/ע.svg",
+    "url": "images/rosetta-stone/ndd/ע.svg",
     "revision": "0eed18beb51f908cef7234fe5e6606c7"
   },
   {
-    "url": "images/ndd/פ.svg",
+    "url": "images/rosetta-stone/ndd/פ.svg",
     "revision": "f9079985304e3a1618807df8eb94061c"
   },
   {
-    "url": "images/ndd/צ.svg",
+    "url": "images/rosetta-stone/ndd/צ.svg",
     "revision": "bcbba1ac733136796be58a47d87e118e"
   },
   {
-    "url": "images/ndd/ק.svg",
+    "url": "images/rosetta-stone/ndd/ק.svg",
     "revision": "7dacb9ffd1f16d5fd8316f396e06af82"
   },
   {
-    "url": "images/ndd/ר.svg",
+    "url": "images/rosetta-stone/ndd/ר.svg",
     "revision": "c53e0920f4890b7deb788f04b41c699a"
   },
   {
-    "url": "images/ndd/ת.svg",
+    "url": "images/rosetta-stone/ndd/ת.svg",
     "revision": "4b2b89c0acb665803dc0a610dafe7f1b"
   },
   {
-    "url": "images/nostalgia.jpg",
-    "revision": "fa8f3a9f0a5a378edc93c1045b61816e"
+    "url": "images/sipur-hayahhid/applicative-philosophy.jpg",
+    "revision": "2db7904fb9f15f1a5645f06fada638c5"
   },
   {
-    "url": "images/osi-model.svg",
-    "revision": "02e9fbf43294065e23c0bd8a2686f79c"
+    "url": "images/sipur-hayahhid/cover.jpg",
+    "revision": "40107ac0add9b298299d6074c0a09728"
   },
   {
-    "url": "images/paradoxality.jpg",
-    "revision": "3173060aee833c95a9cc11d7d0800883"
+    "url": "images/sipur-hayahhid/cycle-mentoring.jpg",
+    "revision": "e8fdc072ed994e8f855901bdb3fe11ab"
   },
   {
-    "url": "images/principles-pulsetherapy.jpg",
+    "url": "images/sipur-hayahhid/hachildhood.jpg",
+    "revision": "93a3bb92a93fcf1ac35eaf5ffd02772c"
+  },
+  {
+    "url": "images/sipur-hayahhid/hacore.jpg",
+    "revision": "6154561b6e038f49e36a823cfc33ce25"
+  },
+  {
+    "url": "images/sipur-hayahhid/hacreation.jpg",
+    "revision": "c70e82718528364c4eeec636abb954d3"
+  },
+  {
+    "url": "images/sipur-hayahhid/hafamily.jpg",
+    "revision": "3f0952d8335264548adc1d00e71702f0"
+  },
+  {
+    "url": "images/sipur-hayahhid/hahome.jpg",
+    "revision": "61609de57a0f30a41eebc393aff33536"
+  },
+  {
+    "url": "images/sipur-hayahhid/hame.jpg",
+    "revision": "1e8fc413203580836b39a3a898399825"
+  },
+  {
+    "url": "images/sipur-hayahhid/hatrauma.jpg",
+    "revision": "19a8e93a3b9adb1288d6ebac7e82c5e0"
+  },
+  {
+    "url": "images/sipur-hayahhid/kingdom-spheres.jpg",
+    "revision": "d6959b0d955ccb5abe98909eccf19f9d"
+  },
+  {
+    "url": "images/sipur-hayahhid/map-body-of-soul.jpg",
+    "revision": "2829744c4b74b0281d75e55ab039935e"
+  },
+  {
+    "url": "images/sipur-hayahhid/principles-pulsetherapy.jpg",
     "revision": "dc957535dc106d7f757457cc9263e210"
   },
   {
-    "url": "images/sanity.jpg",
-    "revision": "75c44bc76eba1408f7e1997e5e049197"
-  },
-  {
-    "url": "images/shelter-parvati.jpg",
+    "url": "images/sipur-hayahhid/shelter-parvati.jpg",
     "revision": "b42264d9453bd9f9c629ab23e5daa2cd"
   },
   {
-    "url": "images/shelter-sinai.jpg",
+    "url": "images/sipur-hayahhid/shelter-sinai.jpg",
     "revision": "7c81a7f12df4a6dc34ed95b5e62f3602"
   },
   {
-    "url": "images/space-school.jpg",
+    "url": "images/sipur-hayahhid/space-school.jpg",
     "revision": "dc5ad0d388d7dc470b4d6c2843a095dd"
+  },
+  {
+    "url": "images/sipur-hayahhid/turnover.jpg",
+    "revision": "b2dd4215f7a2ae6a2dbf702e1cf67275"
+  },
+  {
+    "url": "images/slideshow/cosmology-model.jpg",
+    "revision": "a8747aafef0d86182ff38e1beca4efdf"
+  },
+  {
+    "url": "images/slideshow/equation-terra-dynamics.jpg",
+    "revision": "3cb5d29bb0d5418144b97cd5eda77912"
+  },
+  {
+    "url": "images/slideshow/layered-model.jpg",
+    "revision": "594d5c02f8708489ba7d814715a83102"
+  },
+  {
+    "url": "images/slideshow/osi-model.svg",
+    "revision": "02e9fbf43294065e23c0bd8a2686f79c"
   },
   {
     "url": "images/spacer.png",
     "revision": "f9fb1d9849c9caa5f81dac4f1418151a"
   },
   {
-    "url": "images/system-axes-values.jpg",
-    "revision": "ec599df73dab7e16674b715489f3d35c"
-  },
-  {
-    "url": "images/system-mapping.jpg",
-    "revision": "a6edcd2d6294fc2454d11cb3e8005629"
-  },
-  {
-    "url": "images/turnover.jpg",
-    "revision": "b2dd4215f7a2ae6a2dbf702e1cf67275"
-  },
-  {
-    "url": "images/variable-m.jpg",
-    "revision": "74b03d0c8ea4e6de0c2418bcfe8d0343"
-  },
-  {
-    "url": "images/west.jpg",
-    "revision": "4f71e726f26bbfb83745fe414b513822"
-  },
-  {
     "url": "index.html",
-    "revision": "004f0349a52242700008d1935116fd9f"
+    "revision": "e3129a64a162581ce14f9b907b82690b"
+  },
+  {
+    "url": "intro/index.html",
+    "revision": "83f5ef6bbdc0a0bbe12f409eecbdcc93"
   },
   {
     "url": "mishvaot-hapeima/index.html",
-    "revision": "675b076a2cee2411489982ff54859ec4"
+    "revision": "ce682957a6daa06ec1a2cb07299924c5"
   },
   {
     "url": "rosetta-stone/index.html",
-    "revision": "2210e7a7753c4943ac4a2701e046a183"
+    "revision": "189be6b5b8341ae1ec4d68d459350188"
   },
   {
     "url": "sefer-yetzira/index.html",
-    "revision": "4bcf1eb03ec2d14434ca9d08a9f5639e"
+    "revision": "85ac75b204b4b4e7e7388000e7b687ba"
   },
   {
     "url": "sipur-hayahhid/index.html",
-    "revision": "e7e746c8a7838fcd3ca3831391529c48"
+    "revision": "bfaca1f615406736e47f137b272c4063"
   },
   {
     "url": "slideshow/index.html",
-    "revision": "a15545b17b1a59a24f73f8aae5d0567c"
+    "revision": "6e65a22eaa91c6cb7f1aa155fe90bdd2"
   },
   {
     "url": "sod-haiibur/index.html",
-    "revision": "cca75b5305706a56028fbd05d48d6654"
+    "revision": "6ac86e3e5ad74667b2a5806c4bd47f08"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
